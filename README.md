@@ -8,7 +8,8 @@
 <h2>                 Welcome to OStech</h2>
 
 <main>
-<p>     This is the beginning of a new dawn. Actually I love computers alot and I decide to learn coding. And i'm doing that with the help of <a href="https://www.freecodecamp.org" target="_blank"> freecodecamp</a>, <a href="https://www.coursera.com" target="_blank">coursera</a> and <a href="https://www.github.com" target="_blank">github</a>. </main>
+<p>     This is the beginning of a new dawn. Actually I love computers alot and I decide to learn coding. And i'm doing that with the help of <a href="https://www.freecodecamp.org" target="_blank"> freecodecamp</a>, <a href="https://www.coursera.com" target="_blank">coursera</a> and <a href="https://www.github.com" target="_blank">github</a>. #
+</main>
 <p>     At first it was quite confusing, but I'm beginning to get a little grasp of everything and it's quite amazing.
 
 <p> Baby, you know that I know I don’t have to remind you of how fascinating and beautiful your eyes are. Whenever I look into your eyes I could see how peaceful and beautiful our future together would be. I just can’t take my eyes off you; off your beautiful smiling face. You look gorgeous when you wear a smile on your face as your lovely eyes brighten up my world. I love you so much, beautiful.</p>
