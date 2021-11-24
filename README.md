@@ -44,4 +44,8 @@
 
 <p> Regardless of all my imperfections and flaws, you still love me just the way I am. It’s most have been benevolence to have found you and be with you. Because it’s hard finding someone as special, beautiful and caring as you are. I must be one hell of a lucky man to have you, my baby. I love you more than you know.</p>
 
+
+
+<p> Want to use this opportunity to say a big thank you to my family for all the love and support. I'm super grateful. I love y'all forever.
+
 <footer id="jump to bottom">Copyright OStech23@github.com<footer>
