@@ -1,11 +1,11 @@
-<h1> OStech
+<h1> OStech</h1>
 
 
 <a href="#jump to bottom">Jump to bottom</a>
 
 <img src="C:\Users\O.O ABRAHAM\Begginning\Beginning\os-letter-logo-icon-symbol-260nw-1898708386.jpg" alt="OS logo">
 
-<h2>                 Welcome to OStech
+<h2>                 Welcome to OStech</h2>
 
 <main>
 <p>     This is the beginning of a new dawn. Actually I love computers alot and I decide to learn coding. And i'm doing that with the help of <a href="https://www.freecodecamp.org" target="_blank"> freecodecamp</a>, <a href="https://www.coursera.com" target="_blank">coursera</a> and <a href="https://www.github.com" target="_blank">github</a>. </main>
