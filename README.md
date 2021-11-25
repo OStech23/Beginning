@@ -11,40 +11,36 @@
 <main>
 <p>     This is the beginning of a new dawn. Actually I love computers alot and I decide to learn coding. And i'm doing that with the help of <a href="https://www.freecodecamp.org" target="_blank"> freecodecamp</a>, <a href="https://www.coursera.com" target="_blank">coursera</a> and <a href="https://www.github.com" target="_blank">github</a>.</p> </main>
 
-<p>    <img src="https://github.com/OStech23/Beginning/blob/main/151px-Android_robot_2014.svg_.png" alt="Android logo"> At first it was quite confusing, but I'm beginning to get a little grasp of everything and it's quite amazing.</p>
+<p>    <img src="https://github.com/OStech23/Beginning/blob/main/151px-Android_robot_2014.svg_.png" alt="Android logo"> </p>
+<p> At first it was quite confusing, but I'm beginning to get a little grasp of everything and it's quite amazing.</p>
+<p>I love lots of stuff some of these includes;
 
-<p> Baby, you know that I know I don’t have to remind you of how fascinating and beautiful your eyes are. Whenever I look into your eyes I could see how peaceful and beautiful our future together would be. I just can’t take my eyes off you; off your beautiful smiling face. You look gorgeous when you wear a smile on your face as your lovely eyes brighten up my world. I love you so much, beautiful.</p>
+<ul>
+<li>Gaming</li>
+<li>Codig</li> 
+<li>Sleeping</li>
+<li>making money</li> </ul> etc </p>
 
-<p> I must be one lucky man in this planet earth to have you in my life. You’re more than what I could have wished for in a woman. Because you possess so much more than I could have asked for. You’re really my heaven sent and I will live the rest of my life adoring, honouring and loving you with every breath in me. I love you to the moon and back, my princess.</p>
+<p> Just as much as i love these things there are acouple of things that i hate also and some of them are;
+<ol>
+<li>Being broke</li>
+<li>Having no data</li>
+<li>Family problems/issues I can't solve atm</li>
+<li>Having no phone</li>
+<li>Laying around with nothing to do (no direction in life atm)</li> 
+</ol> etc
+I can go on and on and on. But let's stop there for now</p>
+<p>
+You can let me know what you hate/love below;
+<form action="https://ostech23.github.io/Beginning/"> <input type="text" placeholder="What do you hate/love" required> <button type="submit">Submit</button> </form> </p>
 
-
-
-<p> Baby, you know that I know I don’t have to remind you of how fascinating and beautiful your eyes are. Whenever I look into your eyes I could see how peaceful and beautiful our future together would be. I just can’t take my eyes off you; off your beautiful smiling face. You look gorgeous when you wear a smile on your face as your lovely eyes brighten up my world. I love you so much, beautiful.</p>
-
-<p> I must be one lucky man in this planet earth to have you in my life. You’re more than what I could have wished for in a woman. Because you possess so much more than I could have asked for. You’re really my heaven sent and I will live the rest of my life adoring, honouring and loving you with every breath in me. I love you to the moon and back, my princess.</p>
-
-<p>For as long as there’s a breath in me, I will always cherish, respect and love you. It’s a beautiful thing to fall in love with someone as special and beautiful as you are because I’d be a fool not to. My world is a perfect and beautiful place to live in because of you, my love. You’re everything to me, you’re simply the best for me and I’m glad to be with you. I love you dearly, beautiful.</p>
-
-<p> Even when I thought I was done with love, you came into my life and taught me how to love all over again. You didn’t only teach me, but you also showed me with your unconditional love and care for me. And you also loved me when there’s no reason to. Thanks, dear, for not leaving me to my ruins. I love you beyond words, sweetheart.</p>
-
-<p> Regardless of all my imperfections and flaws, you still love me just the way I am. It’s most have been benevolence to have found you and be with you. Because it’s hard finding someone as special, beautiful and caring as you are. I must be one hell of a lucky man to have you, my baby. I love you more than you know.</p>
-
-
-<p> Baby, you know that I know I don’t have to remind you of how fascinating and beautiful your eyes are. Whenever I look into your eyes I could see how peaceful and beautiful our future together would be. I just can’t take my eyes off you; off your beautiful smiling face. You look gorgeous when you wear a smile on your face as your lovely eyes brighten up my world. I love you so much, beautiful.</p>
-
-<p> I must be one lucky man in this planet earth to have you in my life. You’re more than what I could have wished for in a woman. Because you possess so much more than I could have asked for. You’re really my heaven sent and I will live the rest of my life adoring, honouring and loving you with every breath in me. I love you to the moon and back, my princess.</p>
-
-
-
-<p> Baby, you know that I know I don’t have to remind you of how fascinating and beautiful your eyes are. Whenever I look into your eyes I could see how peaceful and beautiful our future together would be. I just can’t take my eyes off you; off your beautiful smiling face. You look gorgeous when you wear a smile on your face as your lovely eyes brighten up my world. I love you so much, beautiful.</p>
-
-<p> I must be one lucky man in this planet earth to have you in my life. You’re more than what I could have wished for in a woman. Because you possess so much more than I could have asked for. You’re really my heaven sent and I will live the rest of my life adoring, honouring and loving you with every breath in me. I love you to the moon and back, my princess.</p>
-
-<p>For as long as there’s a breath in me, I will always cherish, respect and love you. It’s a beautiful thing to fall in love with someone as special and beautiful as you are because I’d be a fool not to. My world is a perfect and beautiful place to live in because of you, my love. You’re everything to me, you’re simply the best for me and I’m glad to be with you. I love you dearly, beautiful.</p>
-
-<p> Even when I thought I was done with love, you came into my life and taught me how to love all over again. You didn’t only teach me, but you also showed me with your unconditional love and care for me. And you also loved me when there’s no reason to. Thanks, dear, for not leaving me to my ruins. I love you beyond words, sweetheart.</p>
-
-<p> Regardless of all my imperfections and flaws, you still love me just the way I am. It’s most have been benevolence to have found you and be with you. Because it’s hard finding someone as special, beautiful and caring as you are. I must be one hell of a lucky man to have you, my baby. I love you more than you know.</p>
+<p>
+I also want to know what you'd prefer between Self employed or being an employee in a company;
+<form action="https://ostech23.github.io/Beginning/">
+<label for="self-employed">
+<input id="self-employed" type="radio" name="self-employed-employee">Self-employed </label>
+<label for="employee">
+<input id="employee" type="radio" name="self-employed-employee">Employee </label>
 
 
 
