@@ -11,7 +11,9 @@
 <main>
 <p>     This is the beginning of a new dawn. Actually I love computers alot and I decide to learn coding. And i'm doing that with the help of <a href="https://www.freecodecamp.org" target="_blank"> freecodecamp</a>, <a href="https://www.coursera.com" target="_blank">coursera</a> and <a href="https://www.github.com" target="_blank">github</a>.</p> </main>
 
-<p>    <img src="https://github.com/OStech23/Beginning/blob/main/151px-Android_robot_2014.svg_.png" alt="Android logo"> </p>
+<img src="https://github.com/OStech23/Beginning/blob/main/151px-Android_robot_2014.svg_.png" alt="Android logo">
+
+
 <p> At first it was quite confusing, but I'm beginning to get a little grasp of everything and it's quite amazing.</p>
 <p>I love lots of stuff some of these includes;
 
@@ -19,7 +21,7 @@
 <li>Gaming</li>
 <li>Codig</li> 
 <li>Sleeping</li>
-<li>making money</li> </ul> etc </p>
+<li>making money</li> </ul>etc </p>
 
 <p> Just as much as i love these things there are acouple of things that i hate also and some of them are;
 <ol>
@@ -40,7 +42,7 @@ I also want to know what you'd prefer between Self employed or being an employee
 <label for="self-employed">
 <input id="self-employed" type="radio" name="self-employed-employee">Self-employed </label>
 <label for="employee">
-<input id="employee" type="radio" name="self-employed-employee">Employee </label>
+<input id="employee" type="radio" name="self-employed-employee">Employee </label> <button type="submit">Submit</button>
 
 
 
