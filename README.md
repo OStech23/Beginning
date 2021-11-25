@@ -11,7 +11,7 @@
 <main>
 <p>     This is the beginning of a new dawn. Actually I love computers alot and I decide to learn coding. And i'm doing that with the help of <a href="https://www.freecodecamp.org" target="_blank"> freecodecamp</a>, <a href="https://www.coursera.com" target="_blank">coursera</a> and <a href="https://www.github.com" target="_blank">github</a>.</p> </main>
 
-<img src="https://github.com/OStech23/Beginning/blob/main/151px-Android_robot_2014.svg_.png" alt="Android logo">
+<img src="https://github.com/OStech23/Beginning/blob/main/151px-Android_robot_2014.svg_.png?raw=true" alt="Android logo">
 
 
 <p> At first it was quite confusing, but I'm beginning to get a little grasp of everything and it's quite amazing.</p>
@@ -19,7 +19,7 @@
 
 <ul>
 <li>Gaming</li>
-<li>Codig</li> 
+<li>Coding</li> 
 <li>Sleeping</li>
 <li>making money</li> </ul>etc </p>
 
