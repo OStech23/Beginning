@@ -2,6 +2,7 @@
 
 
 
+
 </html>
 <head>
 <title> OStech</title>
@@ -12,7 +13,7 @@
 <img src="https://github.com/OStech23/Beginning/blob/main/os-letter-logo-icon-symbol-260nw-1898708386.jpg?raw=true
 " alt="OS logo">
 
-<meta>                 Welcome to OStech</meta>
+<meta                 Welcome to OStech/>
 </head>
 <body>
 <main>
@@ -48,25 +49,25 @@ You can let me know what you hate/love below;
 I also want to know what you'd prefer between Self employed or being an employee in a company;
 <form action="https://ostech23.github.io/Beginning/">
 <label for="self-employed">
-<input id="self-employed" type="radio" name="self-employed-employee">Self-employed </label>
+<input id="self-employed" value="self-employed" type="radio" name="self-employed-employee" checked>Self-employed </label>
 <label for="employee">
-<input id="employee" type="radio" name="self-employed-employee">Employee </label> <button type="submit">Submit</button> </form> </p>
+<input id="employee" value="employee" type="radio" name="self-employed-employee" checked>Employee </label> <button type="submit">Submit</button> </form> </p>
 <p> I'd also love to know your personality, to do this, i'd need you to tick any of the following personality categories that you fall into as a person.
 <form action="https://ostech23.github.io/Beginning/">
 <label for="loving">
-<input type="checkbox" id="loving" name="personality"> Loving </label>
+<input type="checkbox" value="loving" id="loving" name="personality" checked> Loving </label>
 <label for="caring">
-<input type="checkbox" id="caring" name="personality"> Caring </label>
+<input type="checkbox" id="caring" value="caring" name="personality" checked> Caring </label>
 <label for="sassy">
-<input type="checkbox" id="sassy" name="personality"> Sassy </label>
+<input type="checkbox" value="sassy" id="sassy" name="personality" checked> Sassy </label>
 <label for="humble">
-<input type="checkbox" id="humble" name="personality"> Humble </label>
+<input type="checkbox" id="humble" value="humble" name="personality" checked> Humble </label>
 <label for="ambitious">
-<input type="checkbox" id="ambitious" name="personality"> Ambitious </label>
+<input type="checkbox" value="ambitious" id="ambitious" name="personality" checked> Ambitious </label>
 <label for="courageous">
-<input type="checkbox" id="courageous" name="personality"> Courageous </label>
+<input type="checkbox" value="courageou" id="courageous" name="personality" checked> Courageous </label>
 <label for="honest">
-<input type="checkbox" id="honest" name="personality"> Honest </label> <button type="submit">Submit</button> </form> </p>
+<input type="checkbox"value="honest" id="honest" name="personality" checked> Honest </label> <button type="submit">Submit</button> </form> </p>
 <p> Well, there are so many people in the world with different personalities, I obviously cannot state them all here. So if you do not fall into any of these categories or you feel there are more you need to describe the kind of person you are, please specify in the box below;
 <form action="https://ostech23.github.io/Beginning/"><input type="text" placeholder="Type Here"> <button type="submit">Submit</button> </form>
 </p>
