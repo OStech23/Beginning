@@ -42,8 +42,9 @@ I also want to know what you'd prefer between Self employed or being an employee
 <label for="self-employed">
 <input id="self-employed" type="radio" name="self-employed-employee">Self-employed </label>
 <label for="employee">
-<input id="employee" type="radio" name="self-employed-employee">Employee </label> <button type="submit">Submit</button>
+<input id="employee" type="radio" name="self-employed-employee">Employee </label> <button type="submit">Submit</button> </form> </p>
 <p> I'd also love to know your personality, to do this, i'd need you to tick any of the following personality categories that you fall into as a person.
+<form action="https://ostech23.github.io/Beginning/">
 <label for="loving">
 <input type="checkbox" id="loving" name="personality"> Loving </label>
 <label for="caring">
@@ -57,11 +58,11 @@ I also want to know what you'd prefer between Self employed or being an employee
 <label for="courageous">
 <input type="checkbox" id="courageous" name="personality"> Courageous </label>
 <label for="honest">
-<input type="checkbox" id="honest" name="personality"> Honest </label> <button type="submit">Submit</button>
-Well, there are so many people in the world with different personalities, I obviously cannot state them all here. So if you do not fall into any of these categories or you feel there are more you need to describe the kind of person you are, please specify in the box below;
-<input type="text" placeholder="Type Here"> <button type="submit">Submit</button>
-
-<p> Want to use this opportunity to say a big thank you to my family for all the love and support. I'm super grateful. I love y'all forever. 
+<input type="checkbox" id="honest" name="personality"> Honest </label> <button type="submit">Submit</button> </form> </p>
+<p> Well, there are so many people in the world with different personalities, I obviously cannot state them all here. So if you do not fall into any of these categories or you feel there are more you need to describe the kind of person you are, please specify in the box below;
+<form action="https://ostech23.github.io/Beginning/"><input type="text" placeholder="Type Here"> <button type="submit">Submit</button> </form>
+</p>
+<p> Want to use this opportunity to say a big thank you to my family for all the love and support. I'm super grateful. I love y'all forever. </p>
 
 
 <footer id="jump to bottom">Copyright OStech23@github.com<footer>
