@@ -24,7 +24,6 @@
 <li>Coding</li> 
 <li>Sleeping</li>
 <li>making money</li> </ul>etc
- </p>
 
 <p> Just as much as i love these things there are acouple of things that i hate also and some of them are;
 <ol>
