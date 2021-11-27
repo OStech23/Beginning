@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-
-
-
-
-</html>
 <head>
 <title> OStech</title>
 
@@ -13,7 +7,7 @@
 <img src="https://github.com/OStech23/Beginning/blob/main/os-letter-logo-icon-symbol-260nw-1898708386.jpg?raw=true
 " alt="OS logo">
 
-<meta                 Welcome to OStech/>
+<h2>                 Welcome to OStech </h2>
 </head>
 <body>
 <main>
@@ -77,4 +71,3 @@ I also want to know what you'd prefer between Self employed or being an employee
 </body>
 
 <footer id="jump to bottom">Copyright OStech23@github.com<footer>
-</html>
