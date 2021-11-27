@@ -9,7 +9,6 @@
 
 <h2>                 Welcome to OStech </h2>
 </head>
-<body>
 <main>
 <p>     This is the beginning of a new dawn. Actually I love computers alot and I decide to learn coding. And i'm doing that with the help of <a href="https://www.freecodecamp.org" target="_blank"> freecodecamp</a>, <a href="https://www.coursera.com" target="_blank">coursera</a> and <a href="https://www.github.com" target="_blank">github</a>.</p> </main>
 
@@ -59,14 +58,13 @@ I also want to know what you'd prefer between Self employed or being an employee
 <label for="ambitious">
 <input type="checkbox" value="ambitious" id="ambitious" name="personality" checked> Ambitious </label>
 <label for="courageous">
-<input type="checkbox" value="courageou" id="courageous" name="personality" checked> Courageous </label>
+<input type="checkbox" value="courageous" id="courageous" name="personality" checked> Courageous </label>
 <label for="honest">
-<input type="checkbox"value="honest" id="honest" name="personality" checked> Honest </label> <button type="submit">Submit</button> </form> </p>
+<input type="checkbox" value="honest" id="honest" name="personality" checked> Honest </label> <button type="submit">Submit</button> </form> </p>
 <p> Well, there are so many people in the world with different personalities, I obviously cannot state them all here. So if you do not fall into any of these categories or you feel there are more you need to describe the kind of person you are, please specify in the box below;
 <form action="https://ostech23.github.io/Beginning/"><input type="text" placeholder="Type Here"> <button type="submit">Submit</button> </form>
 </p>
 </div>
 <p> Want to use this opportunity to say a big thank you to my family for all the love and support. I'm super grateful. I love y'all forever. </p>
-</body>
 
 <footer id="jump to bottom">Copyright OStech23@github.com<footer>
