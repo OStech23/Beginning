@@ -66,5 +66,5 @@ I also want to know what you'd prefer between Self employed or being an employee
 </p>
 </div>
 <p> Want to use this opportunity to say a big thank you to my family for all the love and support. I'm super grateful. I love y'all forever. </p>
-ki
+
 <footer id="jump to bottom">Copyright OStech23@github.com<footer>
