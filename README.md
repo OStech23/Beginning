@@ -23,13 +23,14 @@
 
 
 <p> At first it was quite confusing, but I'm beginning to get a little grasp of everything and it's quite amazing.</p>
-<p>I love lots of stuff some of these includes;
+<p> I love lots of stuff some of these includes;
 <div>
 <ul>
 <li>Gaming</li>
 <li>Coding</li> 
 <li>Sleeping</li>
-<li>making money</li> </ul>etc </p>
+<li>making money</li> </ul>etc
+ </p>
 
 <p> Just as much as i love these things there are acouple of things that i hate also and some of them are;
 <ol>
