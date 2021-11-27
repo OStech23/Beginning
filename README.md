@@ -14,7 +14,7 @@
 <img src="https://github.com/OStech23/Beginning/blob/main/151px-Android_robot_2014.svg_.png?raw=true" alt="Android logo">
 
 
-<p> At <a href="#unknown"> first</a> it was quite confusing, but I'm beginning to get a little grasp of everything and it's quite amazing.</p>
+<p> At first it was quite confusing, but I'm beginning to get a little grasp of everything and it's quite amazing.</p>
 <p>I love lots of stuff some of these includes;
 
 <ul>
@@ -47,6 +47,6 @@ I also want to know what you'd prefer between Self employed or being an employee
 
 
 <p> Want to use this opportunity to say a big thank you to my family for all the love and support. I'm super grateful. I love y'all forever. 
-<h3 id="unknown">yeah </h3>
+
 
 <footer id="jump to bottom">Copyright OStech23@github.com<footer>
