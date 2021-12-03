@@ -1,7 +1,7 @@
 
 
 <!DOCTYPE html>
-<html lang="fr" >
+<html lang="en-US" >
 
 <head>
 <title> Beginning</title>
