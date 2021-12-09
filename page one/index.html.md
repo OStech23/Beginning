@@ -14,8 +14,7 @@
 
 <a href="#jump to bottom">Jump to bottom</a>
 
-<img src="https://github.com/OStech23/Beginning/blob/main/os-letter-logo-icon-symbol-260nw-1898708386.jpg?raw=true
-" alt="OS logo" width="102" height="89">
+<img src="..pictures\os-letter-logo-icon-symbol-260nw-1898708386.jpg" alt="OS logo" width="102" height="89">
 
 <h2>                 Welcome to OStech </h2>
 <main>
